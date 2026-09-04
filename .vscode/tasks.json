@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Glove80: Start Live Watcher & Viewer",
+            "type": "shell",
+            "command": "./watch_and_render.py",
+            "isBackground": true,
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        },
+        {
+            "label": "Glove80: Render Once",
+            "type": "shell",
+            "command": "./render_layout.py",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

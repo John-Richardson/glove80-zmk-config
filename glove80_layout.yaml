@@ -1,0 +1,2579 @@
+layout: {zmk_keyboard: glove80}
+layers:
+  QWERTY:
+  - ESC
+  - F1
+  - F2
+  - F4
+  - F5
+  - PREV
+  - PLAY
+  - NEXT
+  - '='
+  - BSPC
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - \
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '-'
+  - VOL UP
+  - {t: A, h: LGUI}
+  - {t: S, h: LALT}
+  - {t: D, h: LCTL}
+  - {t: F, h: LSFT}
+  - G
+  - H
+  - {t: J, h: LSFT}
+  - {t: K, h: LCTL}
+  - {t: L, h: LALT}
+  - {t: ;, h: LGUI}
+  - ''''
+  - Lower
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - VOL DN
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Enthium:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
+  - ''
+  - Z
+  - Y
+  - U
+  - O
+  - ;
+  - Q
+  - L
+  - D
+  - P
+  - X
+  - ''
+  - W
+  - {t: C, h: LGUI}
+  - {t: I, h: LALT}
+  - {t: E, h: LCTL}
+  - {t: A, h: LSFT}
+  - ','
+  - K
+  - {t: H, h: LSFT}
+  - {t: T, h: LCTL}
+  - {t: N, h: LALT}
+  - {t: S, h: LGUI}
+  - F
+  - Lower
+  - ''''
+  - '-'
+  - '='
+  - .
+  - /
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - {t: END, h: Typing}
+  - {t: ENTER, h: System}
+  - J
+  - M
+  - G
+  - B
+  - V
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - \
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: SPACE, h: Cursor}
+  - {t: TAB, h: Number}
+  - {t: INSERT, h: Typing}
+  - {t: DELETE, h: Typing}
+  - {t: BACKSPACE, h: Mouse}
+  - {t: R, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Engrammer:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
+  - ''
+  - B
+  - Y
+  - O
+  - U
+  - ''''
+  - ;
+  - L
+  - D
+  - W
+  - V
+  - Z
+  - '='
+  - {t: C, h: LGUI}
+  - {t: I, h: LALT}
+  - {t: E, h: LCTL}
+  - {t: A, h: LSFT}
+  - ','
+  - .
+  - {t: H, h: LSFT}
+  - {t: T, h: LCTL}
+  - {t: S, h: LALT}
+  - {t: N, h: LGUI}
+  - Q
+  - Lower
+  - G
+  - X
+  - J
+  - K
+  - '-'
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - /
+  - R
+  - M
+  - F
+  - P
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - \
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Engram:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: '1', s: '|'}
+  - {t: '2', s: '='}
+  - {t: '3', s: '~'}
+  - {t: '4', s: +}
+  - {t: '5', s: <}
+  - {t: '6', s: '>'}
+  - {t: '7', s: ^}
+  - {t: '8', s: '&'}
+  - {t: '9', s: '%'}
+  - {t: '0', s: '*'}
+  - ''
+  - ''
+  - B
+  - Y
+  - O
+  - U
+  - {t: '''', s: (}
+  - {t: '"', s: )}
+  - L
+  - D
+  - W
+  - V
+  - Z
+  - {t: '#', s: $}
+  - {t: C, h: LGUI}
+  - {t: I, h: LALT}
+  - {t: E, h: LCTL}
+  - {t: A, h: LSFT}
+  - {t: ',', s: ;}
+  - {t: ., s: ':'}
+  - {t: H, h: LSFT}
+  - {t: T, h: LCTL}
+  - {t: S, h: LALT}
+  - {t: N, h: LGUI}
+  - Q
+  - Lower
+  - G
+  - X
+  - J
+  - K
+  - '-'
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - {t: '?', s: '!'}
+  - R
+  - M
+  - F
+  - P
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - {t: /, s: \}
+  - '['
+  - ']'
+  - {t: '@', h: Emoji, s: '`'}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Dvorak:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '1'
+  - '2'
+  - ']'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
+  - ''
+  - ''''
+  - ','
+  - .
+  - P
+  - Y
+  - F
+  - G
+  - C
+  - R
+  - L
+  - /
+  - '='
+  - {t: A, h: LGUI}
+  - {t: O, h: LALT}
+  - {t: E, h: LCTL}
+  - {t: U, h: LSFT}
+  - I
+  - D
+  - {t: H, h: LSFT}
+  - {t: T, h: LCTL}
+  - {t: N, h: LALT}
+  - {t: S, h: LGUI}
+  - '-'
+  - Lower
+  - ;
+  - Q
+  - J
+  - K
+  - X
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - B
+  - M
+  - W
+  - V
+  - Z
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - \
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Colemak:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
+  - ''
+  - Q
+  - W
+  - F
+  - P
+  - G
+  - J
+  - L
+  - U
+  - Y
+  - ;
+  - '-'
+  - '='
+  - {t: A, h: LGUI}
+  - {t: R, h: LALT}
+  - {t: S, h: LCTL}
+  - {t: T, h: LSFT}
+  - D
+  - H
+  - {t: N, h: LSFT}
+  - {t: E, h: LCTL}
+  - {t: I, h: LALT}
+  - {t: O, h: LGUI}
+  - ''''
+  - Lower
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - K
+  - M
+  - ','
+  - .
+  - /
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - \
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  ColemakDH:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
+  - ''
+  - Q
+  - W
+  - F
+  - P
+  - B
+  - J
+  - L
+  - U
+  - Y
+  - ;
+  - '-'
+  - '='
+  - {t: A, h: LGUI}
+  - {t: R, h: LALT}
+  - {t: S, h: LCTL}
+  - {t: T, h: LSFT}
+  - G
+  - M
+  - {t: N, h: LSFT}
+  - {t: E, h: LCTL}
+  - {t: I, h: LALT}
+  - {t: O, h: LGUI}
+  - ''''
+  - Lower
+  - Z
+  - X
+  - C
+  - D
+  - V
+  - {t: ESC, h: Function}
+  - {t: (, s: <}
+  - {t: ), s: '>'}
+  - HOME
+  - END
+  - {t: ENTER, h: System}
+  - K
+  - H
+  - ','
+  - .
+  - /
+  - Lower
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - \
+  - '['
+  - ']'
+  - {t: '`', h: Emoji}
+  - {t: BACKSPACE, h: Cursor}
+  - {t: DELETE, h: Number}
+  - {t: INSERT, h: Typing}
+  - Typing
+  - {t: TAB, h: Mouse}
+  - {t: SPACE, h: Symbol}
+  - {t: PAGE UP, h: World}
+  - '&msc SCRL_UP'
+  - '&msc SCRL_DOWN'
+  - PG DN
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  Typing:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - A
+  - S
+  - D
+  - F
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ESC
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ENTER
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '`'
+  - BACKSPACE
+  - DELETE
+  - {t: INSERT, type: held}
+  - '0'
+  - TAB
+  - SPACE
+  - PAGE UP
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  LeftPinky:
+  - '&left_pinky_tap'
+  - '&left_pinky_tap'
+  - '&left_pinky_tap'
+  - '&left_pinky_tap'
+  - '&left_pinky_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_pinky_tap'
+  - '&left_pinky_tap N1'
+  - '&left_pinky_tap N2'
+  - '&left_pinky_tap N3'
+  - '&left_pinky_tap N4'
+  - '&left_pinky_tap N5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_pinky_tap'
+  - '&left_pinky_tap Q'
+  - '&left_pinky_tap W'
+  - '&left_pinky_tap E'
+  - '&left_pinky_tap R'
+  - '&left_pinky_tap T'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_pinky_tap EQUAL'
+  - ''
+  - {t: '&left_pinky_tap S', h: LALT}
+  - {t: '&left_pinky_tap D', h: LCTL}
+  - {t: '&left_pinky_tap F', h: LSFT}
+  - '&left_pinky_tap G'
+  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_pinky_tap Z'
+  - '&left_pinky_tap X'
+  - '&left_pinky_tap C'
+  - '&left_pinky_tap V'
+  - '&left_pinky_tap B'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_pinky_tap BSLH'
+  - '&left_pinky_tap LBKT'
+  - '&left_pinky_tap RBKT'
+  - '&left_pinky_tap GRAVE'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  LeftRingy:
+  - '&left_ringy_tap'
+  - '&left_ringy_tap'
+  - '&left_ringy_tap'
+  - '&left_ringy_tap'
+  - '&left_ringy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_ringy_tap'
+  - '&left_ringy_tap N1'
+  - '&left_ringy_tap N2'
+  - '&left_ringy_tap N3'
+  - '&left_ringy_tap N4'
+  - '&left_ringy_tap N5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_ringy_tap'
+  - '&left_ringy_tap Q'
+  - '&left_ringy_tap W'
+  - '&left_ringy_tap E'
+  - '&left_ringy_tap R'
+  - '&left_ringy_tap T'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_ringy_tap EQUAL'
+  - {t: '&left_ringy_tap A', h: LGUI}
+  - ''
+  - {t: '&left_ringy_tap D', h: LCTL}
+  - {t: '&left_ringy_tap F', h: LSFT}
+  - '&left_ringy_tap G'
+  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_ringy_tap Z'
+  - '&left_ringy_tap X'
+  - '&left_ringy_tap C'
+  - '&left_ringy_tap V'
+  - '&left_ringy_tap B'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_ringy_tap BSLH'
+  - '&left_ringy_tap LBKT'
+  - '&left_ringy_tap RBKT'
+  - '&left_ringy_tap GRAVE'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  LeftMiddy:
+  - '&left_middy_tap'
+  - '&left_middy_tap'
+  - '&left_middy_tap'
+  - '&left_middy_tap'
+  - '&left_middy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_middy_tap'
+  - '&left_middy_tap N1'
+  - '&left_middy_tap N2'
+  - '&left_middy_tap N3'
+  - '&left_middy_tap N4'
+  - '&left_middy_tap N5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_middy_tap'
+  - '&left_middy_tap Q'
+  - '&left_middy_tap W'
+  - '&left_middy_tap E'
+  - '&left_middy_tap R'
+  - '&left_middy_tap T'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_middy_tap EQUAL'
+  - {t: '&left_middy_tap A', h: LGUI}
+  - {t: '&left_middy_tap S', h: LALT}
+  - ''
+  - {t: '&left_middy_tap F', h: LSFT}
+  - '&left_middy_tap G'
+  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_middy_tap Z'
+  - '&left_middy_tap X'
+  - '&left_middy_tap C'
+  - '&left_middy_tap V'
+  - '&left_middy_tap B'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_middy_tap BSLH'
+  - '&left_middy_tap LBKT'
+  - '&left_middy_tap RBKT'
+  - '&left_middy_tap GRAVE'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  LeftIndex:
+  - '&left_index_tap'
+  - '&left_index_tap'
+  - '&left_index_tap'
+  - '&left_index_tap'
+  - '&left_index_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_index_tap'
+  - '&left_index_tap N1'
+  - '&left_index_tap N2'
+  - '&left_index_tap N3'
+  - '&left_index_tap N4'
+  - '&left_index_tap N5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_index_tap'
+  - '&left_index_tap Q'
+  - '&left_index_tap W'
+  - '&left_index_tap E'
+  - '&left_index_tap R'
+  - '&left_index_tap T'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_index_tap EQUAL'
+  - {t: '&left_index_tap A', h: LGUI}
+  - {t: '&left_index_tap S', h: LALT}
+  - {t: '&left_index_tap D', h: LCTL}
+  - ''
+  - '&left_index_tap G'
+  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_index_tap Z'
+  - '&left_index_tap X'
+  - '&left_index_tap C'
+  - '&left_index_tap V'
+  - '&left_index_tap B'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&left_index_tap BSLH'
+  - '&left_index_tap LBKT'
+  - '&left_index_tap RBKT'
+  - '&left_index_tap GRAVE'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  RightPinky:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap'
+  - '&right_pinky_tap'
+  - '&right_pinky_tap'
+  - '&right_pinky_tap'
+  - '&right_pinky_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap N6'
+  - '&right_pinky_tap N7'
+  - '&right_pinky_tap N8'
+  - '&right_pinky_tap N9'
+  - '&right_pinky_tap N0'
+  - '&right_pinky_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap Y'
+  - '&right_pinky_tap U'
+  - '&right_pinky_tap I'
+  - '&right_pinky_tap O'
+  - '&right_pinky_tap P'
+  - '&right_pinky_tap MINUS'
+  - {t: ▽, type: trans}
+  - A
+  - S
+  - D
+  - F
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap H'
+  - {t: '&right_pinky_tap J', h: LSFT}
+  - {t: '&right_pinky_tap K', h: LCTL}
+  - {t: '&right_pinky_tap L', h: LALT}
+  - ''
+  - '&right_pinky_tap SQT'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap N'
+  - '&right_pinky_tap M'
+  - '&right_pinky_tap COMMA'
+  - '&right_pinky_tap DOT'
+  - '&right_pinky_tap FSLH'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_pinky_tap PAGE_UP'
+  - '&right_pinky_tap'
+  - '&right_pinky_tap'
+  - '&right_pinky_tap PG_DN'
+  - {t: ▽, type: trans}
+  RightRingy:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap'
+  - '&right_ringy_tap'
+  - '&right_ringy_tap'
+  - '&right_ringy_tap'
+  - '&right_ringy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap N6'
+  - '&right_ringy_tap N7'
+  - '&right_ringy_tap N8'
+  - '&right_ringy_tap N9'
+  - '&right_ringy_tap N0'
+  - '&right_ringy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap Y'
+  - '&right_ringy_tap U'
+  - '&right_ringy_tap I'
+  - '&right_ringy_tap O'
+  - '&right_ringy_tap P'
+  - '&right_ringy_tap MINUS'
+  - {t: ▽, type: trans}
+  - A
+  - S
+  - D
+  - F
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap H'
+  - {t: '&right_ringy_tap J', h: LSFT}
+  - {t: '&right_ringy_tap K', h: LCTL}
+  - ''
+  - {t: '&right_ringy_tap SEMI', h: LGUI}
+  - '&right_ringy_tap SQT'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap N'
+  - '&right_ringy_tap M'
+  - '&right_ringy_tap COMMA'
+  - '&right_ringy_tap DOT'
+  - '&right_ringy_tap FSLH'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_ringy_tap PAGE_UP'
+  - '&right_ringy_tap'
+  - '&right_ringy_tap'
+  - '&right_ringy_tap PG_DN'
+  - {t: ▽, type: trans}
+  RightMiddy:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_middy_tap'
+  - '&right_middy_tap'
+  - '&right_middy_tap'
+  - '&right_middy_tap'
+  - '&right_middy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_middy_tap N6'
+  - '&right_middy_tap N7'
+  - '&right_middy_tap N8'
+  - '&right_middy_tap N9'
+  - '&right_middy_tap N0'
+  - '&right_middy_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_middy_tap Y'
+  - '&right_middy_tap U'
+  - '&right_middy_tap I'
+  - '&right_middy_tap O'
+  - '&right_middy_tap P'
+  - '&right_middy_tap MINUS'
+  - {t: ▽, type: trans}
+  - A
+  - S
+  - D
+  - F
+  - {t: ▽, type: trans}
+  - '&right_middy_tap H'
+  - {t: '&right_middy_tap J', h: LSFT}
+  - ''
+  - {t: '&right_middy_tap L', h: LALT}
+  - {t: '&right_middy_tap SEMI', h: LGUI}
+  - '&right_middy_tap SQT'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_middy_tap N'
+  - '&right_middy_tap M'
+  - '&right_middy_tap COMMA'
+  - '&right_middy_tap DOT'
+  - '&right_middy_tap FSLH'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_middy_tap PAGE_UP'
+  - '&right_middy_tap'
+  - '&right_middy_tap'
+  - '&right_middy_tap PG_DN'
+  - {t: ▽, type: trans}
+  RightIndex:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_index_tap'
+  - '&right_index_tap'
+  - '&right_index_tap'
+  - '&right_index_tap'
+  - '&right_index_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_index_tap N6'
+  - '&right_index_tap N7'
+  - '&right_index_tap N8'
+  - '&right_index_tap N9'
+  - '&right_index_tap N0'
+  - '&right_index_tap'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_index_tap Y'
+  - '&right_index_tap U'
+  - '&right_index_tap I'
+  - '&right_index_tap O'
+  - '&right_index_tap P'
+  - '&right_index_tap MINUS'
+  - {t: ▽, type: trans}
+  - A
+  - S
+  - D
+  - F
+  - {t: ▽, type: trans}
+  - '&right_index_tap H'
+  - ''
+  - {t: '&right_index_tap K', h: LCTL}
+  - {t: '&right_index_tap L', h: LALT}
+  - {t: '&right_index_tap SEMI', h: LGUI}
+  - '&right_index_tap SQT'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_index_tap N'
+  - '&right_index_tap M'
+  - '&right_index_tap COMMA'
+  - '&right_index_tap DOT'
+  - '&right_index_tap FSLH'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&right_index_tap PAGE_UP'
+  - '&right_index_tap'
+  - '&right_index_tap'
+  - '&right_index_tap PG_DN'
+  - {t: ▽, type: trans}
+  Cursor:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ESC
+  - INS
+  - Sft+TAB
+  - DEL
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RET
+  - SPACE
+  - TAB
+  - Ctl+Z
+  - Ctl+X
+  - Ctl+Y
+  - HOME
+  - UP
+  - END
+  - ''
+  - ''
+  - {t: LSHFT, h: sticky}
+  - LGUI
+  - LALT
+  - LCTL
+  - LSFT
+  - Ctl+C
+  - Ctl+Z
+  - LEFT
+  - DOWN
+  - RIGHT
+  - ''
+  - {t: LSHFT, h: sticky}
+  - Ctl+L
+  - Ctl+A
+  - {t: '&select_line_right', s: '&select_line_left'}
+  - {t: '&select_word_right', s: '&select_word_left'}
+  - Ctl+F
+  - Ctl+V
+  - Sft+TAB
+  - TAB
+  - ''
+  - '&select_none'
+  - {t: '&extend_line_right', s: '&extend_line_left'}
+  - {t: '&extend_word_right', s: '&extend_word_left'}
+  - Ctl+V
+  - ''
+  - ''
+  - ''
+  - END
+  - Ctl+L
+  - Ctl+K
+  - Ctl+Z
+  - Ctl+Y
+  - Ctl+Sft+G
+  - Ctl+G
+  - {t: Cursor, h: toggle, type: held}
+  - ''
+  - ''
+  - Ctl+A
+  - {t: '&select_line_right', s: '&select_line_left'}
+  - {t: '&select_word_right', s: '&select_word_left'}
+  - Ctl+F
+  - Ctl+Sft+G
+  - Ctl+G
+  - Ctl+H
+  - Ctl+K
+  Number:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - A
+  - B
+  - C
+  - D
+  - E
+  - ''
+  - ESC
+  - INS
+  - Sft+TAB
+  - DEL
+  - ''
+  - Sft+\
+  - Sft+3
+  - Sft+4
+  - Sft+6
+  - Sft+`
+  - Sft+1
+  - E
+  - RET
+  - SPACE
+  - TAB
+  - BSPC
+  - '0'
+  - Sft+G
+  - '7'
+  - '8'
+  - '9'
+  - Sft+;
+  - Sft+5
+  - {t: LSHFT, h: sticky}
+  - LGUI
+  - LALT
+  - LCTL
+  - LSFT
+  - X
+  - K
+  - '4'
+  - '5'
+  - '6'
+  - '-'
+  - Sft+=
+  - Sft+-
+  - Ctl+A
+  - {t: '&select_line_right', s: '&select_line_left'}
+  - {t: '&select_word_right', s: '&select_word_left'}
+  - Ctl+F
+  - F
+  - ''
+  - ''
+  - ''
+  - Sft+,
+  - Sft+.
+  - ','
+  - J
+  - '1'
+  - '2'
+  - '3'
+  - /
+  - Sft+8
+  - ''
+  - Ctl+Z
+  - Ctl+Y
+  - Ctl+Sft+G
+  - Ctl+G
+  - ''
+  - {t: Number, h: toggle, type: held}
+  - ''
+  - '='
+  - .
+  - '0'
+  - Sft+9
+  - '['
+  - ']'
+  - Sft+0
+  - Sft+2
+  Function:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ESC
+  - INS
+  - Sft+TAB
+  - DEL
+  - ''
+  - MEDIA HOME
+  - PLAY
+  - PREV
+  - NEXT
+  - STOP
+  - EJECT
+  - ''
+  - RET
+  - SPACE
+  - TAB
+  - BSPC
+  - CALC
+  - CALC
+  - F7
+  - F8
+  - F9
+  - F10
+  - F13
+  - {t: LSHFT, h: sticky}
+  - LGUI
+  - LALT
+  - LCTL
+  - LSFT
+  - WWW
+  - WWW
+  - F4
+  - F5
+  - F6
+  - F11
+  - F14
+  - ''
+  - Ctl+A
+  - {t: '&select_line_right', s: '&select_line_left'}
+  - {t: '&select_word_right', s: '&select_word_left'}
+  - Ctl+F
+  - Gui+E
+  - {t: Function, h: toggle, type: held}
+  - ''
+  - ''
+  - PP
+  - PREV
+  - NEXT
+  - Gui+E
+  - F1
+  - F2
+  - F3
+  - F12
+  - F15
+  - ''
+  - Ctl+Z
+  - Ctl+Y
+  - Ctl+Sft+G
+  - Ctl+G
+  - ''
+  - ''
+  - ''
+  - MUTE
+  - VOL DN
+  - VOL UP
+  - BRI MAX
+  - BRI UP
+  - BRI DN
+  - BRI MIN
+  - BRI AUTO
+  Emoji:
+  - {t: '&emoji_cloudy_macro', s: '&emoji_cloudy_macro'}
+  - {t: '&emoji_mostly_cloudy_macro', s: '&emoji_mostly_cloudy_macro'}
+  - {t: '&emoji_partly_cloudy_macro', s: '&emoji_partly_cloudy_macro'}
+  - {t: '&emoji_mostly_sunny_macro', s: '&emoji_mostly_sunny_macro'}
+  - {t: '&emoji_sunny_macro', s: '&emoji_sunny_macro'}
+  - {t: '&emoji_new_moon_macro', s: '&emoji_new_moon_macro'}
+  - {t: '&emoji_waning_crescent_moon_macro', s: '&emoji_waxing_crescent_moon_macro'}
+  - {t: '&emoji_last_quarter_moon_macro', s: '&emoji_first_quarter_moon_macro'}
+  - {t: '&emoji_waning_gibbous_moon_macro', s: '&emoji_waxing_gibbous_moon_macro'}
+  - {t: '&emoji_full_moon_macro', s: '&emoji_full_moon_macro'}
+  - {t: '&emoji_rainbow_macro', s: '&emoji_rainbow_macro'}
+  - {t: '&emoji_light_skin_tone_macro', s: '&emoji_light_skin_tone_macro'}
+  - {t: '&emoji_medium_light_skin_tone_macro', s: '&emoji_medium_light_skin_tone_macro'}
+  - {t: '&emoji_medium_skin_tone_macro', s: '&emoji_medium_skin_tone_macro'}
+  - {t: '&emoji_medium_dark_skin_tone_macro', s: '&emoji_medium_dark_skin_tone_macro'}
+  - {t: '&emoji_dark_skin_tone_macro', s: '&emoji_dark_skin_tone_macro'}
+  - {t: '&emoji_tada_macro', s: '&emoji_theme_party_face_macro'}
+  - {t: '&emoji_theme_love_heart_macro', s: '&emoji_theme_love_face_macro'}
+  - {t: '&emoji_fire_macro', s: '&emoji_theme_nature_water_macro'}
+  - {t: '&emoji_muscle_macro', s: '&emoji_theme_strength_lifting_macro'}
+  - {t: '&emoji_person_climbing_macro', s: '&emoji_theme_effort_juggle_macro'}
+  - {t: '&emoji_nerd_macro', s: '&emoji_lab_coat_macro'}
+  - {t: '&emoji_left_arrow_macro', s: '&emoji_left_arrow_macro'}
+  - {t: '&emoji_bald_macro', s: '&emoji_bald_macro'}
+  - {t: '&emoji_red_hair_macro', s: '&emoji_red_hair_macro'}
+  - {t: '&emoji_curly_hair_macro', s: '&emoji_curly_hair_macro'}
+  - {t: '&emoji_white_hair_macro', s: '&emoji_white_hair_macro'}
+  - {t: '&emoji_right_arrow_macro', s: '&emoji_right_arrow_macro'}
+  - {t: '&emoji_joy_macro', s: '&emoji_rofl_macro'}
+  - {t: '&emoji_face_smile_up_macro', s: '&emoji_face_smile_down_macro'}
+  - {t: '&emoji_star_struck_macro', s: '&emoji_love_struck_macro'}
+  - {t: '&emoji_face_joke_wink_macro', s: '&emoji_face_joke_tongue_macro'}
+  - {t: '&emoji_face_fear_scared_macro', s: '&emoji_face_fear_scream_macro'}
+  - {t: '&emoji_shocked_face_macro', s: '&emoji_face_surprise_dizzy_macro'}
+  - {t: '&emoji_female_sign_macro', s: '&emoji_female_sign_macro'}
+  - {t: '&emoji_zwj_macro', s: '&emoji_zwj_macro'}
+  - '&emoji_skin_tone_preset'
+  - '&emoji_gender_sign_preset'
+  - '&emoji_hair_style_preset'
+  - {t: '&emoji_male_sign_macro', s: '&emoji_male_sign_macro'}
+  - {t: '&emoji_snap_fingers_macro', s: '&emoji_gesture_attention_wave_macro'}
+  - {t: '&emoji_ok_hand_macro', s: '&emoji_gesture_approval_cool_macro'}
+  - {t: '&emoji_pray_macro', s: '&emoji_saluting_face_macro'}
+  - {t: '&emoji_sweat_smile_macro', s: '&emoji_cold_sweat_macro'}
+  - {t: '&emoji_disappointed_macro', s: '&emoji_gesture_despair_cry_macro'}
+  - {t: '&emoji_thinking_macro', s: '&emoji_monocle_face_macro'}
+  - {t: '&emoji_old_woman_macro', s: '&emoji_old_woman_macro'}
+  - {t: '&emoji_woman_macro', s: '&emoji_woman_macro'}
+  - {t: '&emoji_girl_macro', s: '&emoji_girl_macro'}
+  - {t: '&emoji_boy_macro', s: '&emoji_boy_macro'}
+  - {t: '&emoji_man_macro', s: '&emoji_man_macro'}
+  - {t: '&emoji_old_man_macro', s: '&emoji_old_man_macro'}
+  - {t: '&emoji_cityscape_macro', s: '&emoji_cityscape_macro'}
+  - {t: '&emoji_cityscape_dusk_macro', s: '&emoji_cityscape_dusk_macro'}
+  - {t: '&emoji_cityscape_night_macro', s: '&emoji_cityscape_night_macro'}
+  - {t: '&emoji_theme_magic_wand_macro', s: '&emoji_theme_magic_wizard_macro'}
+  - {t: '&emoji_rocket_macro', s: '&emoji_astronaut_macro'}
+  - {t: '&emoji_sparkles_macro', s: '&emoji_theme_awesome_shine_macro'}
+  - {t: '&emoji_person_tipping_hand_macro', s: '&emoji_person_tipping_hand_macro'}
+  - {t: '&emoji_person_gesturing_ok_macro', s: '&emoji_person_gesturing_ok_macro'}
+  - {t: '&emoji_person_bowing_macro', s: '&emoji_person_bowing_macro'}
+  - {t: '&emoji_person_raising_hand_macro', s: '&emoji_person_raising_hand_macro'}
+  - {t: '&emoji_person_gesturing_no_macro', s: '&emoji_person_gesturing_no_macro'}
+  - {t: '&emoji_person_shrugging_macro', s: '&emoji_theme_sigh_fail_macro'}
+  - {t: '&emoji_theme_game_dart_macro', s: '&emoji_theme_game_dice_macro'}
+  - {t: '&emoji_theme_trend_up_macro', s: '&emoji_theme_trend_down_macro'}
+  - {t: '&emoji_baby_macro', s: '&emoji_baby_macro'}
+  - {t: '&emoji_baby_bottle_macro', s: '&emoji_baby_bottle_macro'}
+  - {t: Emoji, h: toggle, type: held}
+  - {t: LSHFT, h: sticky}
+  - {t: '&emoji_sunrise_macro', s: '&emoji_sunrise_macro'}
+  - {t: '&emoji_sunrise_mountains_macro', s: '&emoji_sunrise_mountains_macro'}
+  - {t: '&emoji_raised_hands_macro', s: '&emoji_gesture_hands_clap_macro'}
+  - {t: '&emoji_point_up_macro', s: '&emoji_gesture_point_you_macro'}
+  - {t: '&emoji_thumbs_up_macro', s: '&emoji_gesture_thumbs_down_macro'}
+  - {t: '&emoji_check_macro', s: '&emoji_check_macro'}
+  - {t: '&emoji_100_macro', s: '&emoji_100_macro'}
+  - {t: '&emoji_warning_macro', s: '&emoji_warning_macro'}
+  - {t: '&emoji_cross_macro', s: '&emoji_cross_macro'}
+  - {t: '&emoji_question_macro', s: '&emoji_question_macro'}
+  World:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: '&world_degree_sign_macro', s: '&world_degree_sign_macro'}
+  - {t: '&world_y_acute_lower_macro', s: '&world_y_diaeresis_lower_macro'}
+  - {t: '&world_u_acute_lower_macro', s: '&world_u_diaeresis_lower_macro'}
+  - {t: '&world_o_acute_lower_macro', s: '&world_o_tilde_lower_macro'}
+  - ''
+  - ''
+  - ''
+  - {t: LALT, h: sticky}
+  - {t: RALT, h: sticky}
+  - ''
+  - ''
+  - {t: '&world_sign_copyright_regular_macro', s: '&world_sign_trademark_regular_macro'}
+  - {t: '&world_consonants_cedilla_lower_macro', s: '&world_consonants_ntilde_lower_macro'}
+  - {t: '&world_i_acute_lower_macro', s: '&world_i_diaeresis_lower_macro'}
+  - {t: '&world_e_acute_lower_macro', s: '&world_e_oe_lower_macro'}
+  - {t: '&world_a_acute_lower_macro', s: '&world_a_tilde_lower_macro'}
+  - ''
+  - ''
+  - {t: LSHFT, h: sticky}
+  - {t: LCTRL, h: sticky}
+  - {t: RCTRL, h: sticky}
+  - {t: RSHFT, h: sticky}
+  - ''
+  - {t: '&world_currency_dollar_lower_macro', s: '&world_currency_yen_macro'}
+  - {t: '&world_quotes_left_angle_lower_macro', s: '&world_quotes_left_corner1_lower_macro'}
+  - {t: '&world_exclaim_left_macro', s: '&world_exclaim_left_macro'}
+  - {t: '&world_question_left_macro', s: '&world_question_left_macro'}
+  - {t: '&world_quotes_right_angle_lower_macro', s: '&world_quotes_right_corner1_lower_macro'}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: '&world_micro_sign_macro', s: '&world_micro_sign_macro'}
+  - {t: '&world_section_sign_macro', s: '&world_section_sign_macro'}
+  - {t: '&world_paragraph_sign_macro', s: '&world_paragraph_sign_macro'}
+  - {t: '&world_o_ordinal_macro', s: '&world_o_ordinal_macro'}
+  - {t: '&world_a_ordinal_macro', s: '&world_a_ordinal_macro'}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: World, h: toggle, type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  Symbol:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '`'
+  - ']'
+  - Sft+9
+  - Sft+0
+  - ;
+  - .
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '['
+  - Sft+1
+  - Sft+[
+  - Sft+]
+  - ','
+  - Sft+/
+  - '`'
+  - {t: LSFT, h: sticky}
+  - {t: LCTL, h: sticky}
+  - {t: LALT, h: sticky}
+  - {t: LGUI, h: sticky}
+  - ''
+  - Sft+3
+  - Sft+6
+  - '='
+  - Sft+-
+  - Sft+4
+  - Sft+8
+  - Sft+'
+  - BSPC
+  - TAB
+  - SPACE
+  - RET
+  - ''
+  - Sft+`
+  - Sft+,
+  - Sft+\
+  - '-'
+  - Sft+.
+  - /
+  - \
+  - .
+  - Sft+8
+  - ''
+  - ''
+  - ''
+  - ''''
+  - DEL
+  - Sft+TAB
+  - INS
+  - ESC
+  - ''
+  - '&dot_dot'
+  - Sft+7
+  - ''''
+  - Sft+'
+  - Sft+=
+  - Sft+5
+  - Sft+;
+  - Sft+2
+  - ''
+  - ''
+  - {t: Symbol, h: toggle, type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  System:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - PSCRN
+  - PAUSE BREAK
+  - RGB TOG
+  - RGB TOG
+  - {t: LSFT, h: sticky}
+  - {t: LCTL, h: sticky}
+  - {t: LALT, h: sticky}
+  - {t: LGUI, h: sticky}
+  - ''
+  - ''
+  - RGB SPI
+  - RGB SAI
+  - RGB HUI
+  - RGB BRI
+  - RGB EFF
+  - RGB EFF
+  - RGB BRI
+  - RGB HUI
+  - RGB SAI
+  - RGB SPI
+  - LOCK
+  - ''
+  - RGB SPD
+  - RGB SAD
+  - RGB HUD
+  - RGB BRD
+  - RGB EFR
+  - LOCK
+  - SLEEP
+  - POWER
+  - ''
+  - ''
+  - {t: System, h: toggle, type: held}
+  - RGB EFR
+  - RGB BRD
+  - RGB HUD
+  - RGB SAD
+  - RGB SPD
+  - SLEEP
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&linux_magic_sysrq'
+  - SLCK
+  - KP NUM
+  - CAPS
+  - ''
+  - PSCRN
+  - PAUSE BREAK
+  - '&linux_magic_sysrq'
+  - SLCK
+  - KP NUM
+  - CAPS
+  - POWER
+  Mouse:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&msc SCRL_LEFT'
+  - '&mmv MOVE_UP'
+  - '&msc SCRL_RIGHT'
+  - ''
+  - ''
+  - {t: LSFT, h: sticky}
+  - {t: LCTL, h: sticky}
+  - {t: LALT, h: sticky}
+  - {t: LGUI, h: sticky}
+  - APP
+  - ''
+  - '&msc SCRL_UP'
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_RIGHT'
+  - '&msc SCRL_UP'
+  - '&msc SCRL_UP'
+  - MouseFast
+  - MouseSlow
+  - MouseFine
+  - MouseWarp
+  - '&mkp MB4'
+  - ''
+  - '&msc SCRL_DOWN'
+  - Ctl+X
+  - Ctl+C
+  - Ctl+V
+  - '&msc SCRL_DOWN'
+  - '&mkp MCLK'
+  - APP
+  - '&mkp MB5'
+  - ''
+  - ''
+  - Ctl+X
+  - '&msc SCRL_DOWN'
+  - '&msc SCRL_LEFT'
+  - '&mmv MOVE_UP'
+  - '&msc SCRL_RIGHT'
+  - '&mkp LCLK'
+  - '&mkp MB5'
+  - ''
+  - MouseWarp
+  - MouseFine
+  - MouseSlow
+  - MouseFast
+  - '&mkp LCLK'
+  - '&mkp RCLK'
+  - '&mkp MB4'
+  - Ctl+V
+  - {t: Mouse, h: toggle, type: held}
+  - Ctl+C
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_RIGHT'
+  - '&mkp RCLK'
+  - '&mkp MCLK'
+  MouseFine:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  MouseSlow:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  MouseFast:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  MouseWarp:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Gaming: [ESC, P, O, N, BSPC, F1, F2, F3, F4, F5, M, '6', '7', '8', '9', '0', F6, F7, F8, F9, F10, F11, I, '1', '2', '3', '4', '5', Y, U, I, O, P, F12, T, TAB, Q,
+    W, E, R, H, J, K, L, ;, '''', G, LSHFT, A, S, D, F, LSHFT, LALT, V, ESC, UP, RET, N, M, ',', ., /, \, B, LCTRL, Z, X, C, SPACE, LCTRL, RET, LEFT, DOWN, RIGHT,
+    '-', '[', ']', '=', '`']
+  Factory:
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - '='
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - \
+  - ESC
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ''''
+  - '`'
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - LSHFT
+  - LCTRL
+  - '&lower'
+  - LGUI
+  - RCTRL
+  - RSHFT
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - PG UP
+  - {t: '&rgb_ug_status_macro', h: Magic}
+  - HOME
+  - END
+  - LEFT
+  - RIGHT
+  - BSPC
+  - DEL
+  - LALT
+  - RALT
+  - RET
+  - SPACE
+  - UP
+  - DOWN
+  - '['
+  - ']'
+  - PG DN
+  Lower:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP NUM
+  - KP SLASH
+  - KP MULTIPLY
+  - KP MINUS
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP CLEAR
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP MINUS
+  - /
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP LPAR
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP PLUS
+  - KP MULTIPLY
+  - RALT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP RPAR
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP ENTER
+  - KP EQUAL
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: Function, h: toggle}
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: System, h: toggle}
+  - KP 0
+  - KP 0
+  - KP COMMA
+  - KP DOT
+  - KP ENTER
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: Emoji, h: toggle}
+  - {t: Cursor, h: toggle}
+  - {t: Number, h: toggle}
+  - ''
+  - ''
+  - {t: Mouse, h: toggle}
+  - {t: Symbol, h: toggle}
+  - {t: World, h: toggle}
+  - ''
+  - ''
+  - ''
+  - ''
+  Magic:
+  - BT CLR
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - BT CLR ALL
+  - {t: QWERTY, h: toggle}
+  - {t: Enthium, h: toggle}
+  - {t: Engrammer, h: toggle}
+  - {t: Engram, h: toggle}
+  - {t: Dvorak, h: toggle}
+  - {t: Colemak, h: toggle}
+  - {t: ColemakDH, h: toggle}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RGB SPI
+  - RGB SAI
+  - RGB HUI
+  - RGB BRI
+  - RGB TOG
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&bootloader'
+  - RGB SPD
+  - RGB SAD
+  - RGB HUD
+  - RGB BRD
+  - RGB EFF
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&bootloader'
+  - '&sys_reset'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&bt_2'
+  - '&bt_3'
+  - {t: Factory, h: toggle}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&sys_reset'
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&bt_0'
+  - '&bt_1'
+  - OUT USB
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+combos:
+- p: [53, 54]
+  k: {t: LGUI, h: sticky}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [56, 55]
+  k: {t: LGUI, h: sticky}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [52, 53]
+  k: {t: RALT, h: sticky}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [57, 56]
+  k: {t: RALT, h: sticky}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [53, 70]
+  k: '&mod_tab_chord LALT 16'
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [56, 73]
+  k: Gui+Alt+Ctl+LSHFT
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [70, 71]
+  k: '&mod_tab_chord LGUI 16'
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [73, 72]
+  k: Ctl+LSHFT
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [54, 71]
+  k: '&mod_tab_chord LCTL 16'
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [55, 72]
+  k: Alt+Ctl+LSHFT
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [52, 69]
+  k: {t: '&sticky_key_oneshot LSFT', h: LSFT}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [57, 74]
+  k: {t: '&sticky_key_oneshot RSFT', h: RSFT}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [69, 70]
+  k: '&caps_word'
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [74, 73]
+  k: '&caps_word'
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [52, 70]
+  k: CAPSLOCK
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [57, 73]
+  k: CAPSLOCK
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing]
+- p: [51, 68]
+  k: {t: Gaming, h: toggle}
+  l: [QWERTY, Gaming]
+- p: [58, 75]
+  k: {t: Typing, h: toggle}
+  l: [QWERTY, Typing]
+- p: [52, 53, 54]
+  k: {t: QWERTY, h: toggle}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing, LeftPinky, LeftRingy, LeftMiddy, LeftIndex, RightPinky, RightRingy, RightMiddy, RightIndex,
+    Cursor, Number, Function, Emoji, World, Symbol, System, Mouse, MouseFine, MouseSlow, MouseFast, MouseWarp, Gaming, Factory, Lower]
+- p: [57, 56, 55]
+  k: {t: QWERTY, h: toggle}
+  l: [QWERTY, Enthium, Engrammer, Engram, Dvorak, Colemak, ColemakDH, Typing, LeftPinky, LeftRingy, LeftMiddy, LeftIndex, RightPinky, RightRingy, RightMiddy, RightIndex,
+    Cursor, Number, Function, Emoji, World, Symbol, System, Mouse, MouseFine, MouseSlow, MouseFast, MouseWarp, Gaming, Factory, Lower]
